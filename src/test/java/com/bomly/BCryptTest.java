@@ -1,5 +1,5 @@
 /*
- * © Copyright 2018 -  SourceClear Inc
+ * © Copyright 2018 - Bomly
  */
 package com.bomly;
 
