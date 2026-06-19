@@ -28,6 +28,5 @@ jobs:
           cli-token: ${{ github.token }}
           log-level: debug
           ecosystems: maven
-          detectors: syft-detector
           fail-on: high
           comment-summary-in-pr: always
