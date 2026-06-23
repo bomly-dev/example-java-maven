@@ -29,5 +29,5 @@ jobs:
           log-level: debug
           ecosystems: maven
           detectors: maven-detector
-          fail-on: high
+          fail-on: any
           comment-summary-in-pr: always
