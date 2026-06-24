@@ -29,5 +29,6 @@ jobs:
           log-level: debug
           ecosystems: maven
           detectors: maven-detector
+          matchers: +scorecard
           fail-on: any
           comment-summary-in-pr: always
